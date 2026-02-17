@@ -10,10 +10,6 @@
   [![License](https://img.shields.io/badge/License-Educational-ef4444?style=for-the-badge)](https://choosealicense.com/)
 
   *Une fusion parfaite de puissance, d'élégance et d'automatisations intelligentes.*
-  
-  ---
-  
-  [**Explorer les Modules**](#-modules) • [**Guide d'Installation**](#-installation) • [**Démarrage Rapide**](#-utilisation) • [**Crédits**](#-héritage)
 
 </div>
 
@@ -118,3 +114,4 @@ Ce projet est développé à titre **purement expérimental**. Ni les auteurs or
   <br/>
   <b>Built for Power. Designed for Style.</b>
 </p>
+
