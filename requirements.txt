@@ -1,0 +1,13 @@
+requests
+PyQt5
+Pillow
+qrcode
+phonenumbers
+discord.py
+beautifulsoup4
+whois
+dnspython
+deep-translator
+edge-tts
+PyInstaller
+pynput
